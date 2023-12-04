@@ -1,14 +1,15 @@
 openapi: 3.0.3
 info:
-  title: EazyShop Products APIs Definition
+  title: EasyShop Products APIs Definition
   description: |
       # About Us
-      **EazyShop** is a open market product selling company. Any website can list our products by  using our _APIs_. Shipping & other logistics will be taken care by us. You will get an `Affiliate commision` for selling our products.
+      **EazsShop** is a open market product selling company. Any website can list our products by using our _APIs_. Shipping & other logistics will be taken care by us. You will get an `Affiliate commision` for selling our products.
       # Categories suported
         - Mobiles
           - Apple
           - Samsung
           - OnePlus
+          - Nokia
         - Laptops
         - Televisions
         - Headphones
